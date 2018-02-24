@@ -55,8 +55,7 @@ tr>td{
     #conTablas > table {
         width:100%;
     }
-    tr>td{
-        font-size: 12pt;
+    tr>td {
         padding-top: 10px;
         padding-bottom: 10px;
     }
