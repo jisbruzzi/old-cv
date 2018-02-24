@@ -1,3 +1,4 @@
+# Introducción
 Soy un estudiante de Ingeniería en Informática UBA, me encuentro en 4to año (5to contando el CBC). No tengo experiencia laboral, pero sí un perfil multifacético de mucho valor. 
 - Valoro mucho mi formación académica, lo cual se puede notar en mis promedios escolares y universitarios.
 - Me apasiona lo que hago. Aprendí a programar por mi cuenta haciendo juegos a los 13 años.
@@ -46,9 +47,12 @@ TP de Taller de Programación 2. Un clon de Uber. Mi rol fue hacer un servidor, 
 # Otros antecedentes
 
 Durante 2017 di catequesis para adultos en mi parroquia.
+
 En el mes de Enero de 2017 y de 2018 fui a misionar a Corrientes con un grupo.
+
 Participé del Remando en el CBC en el segundo cuatrimestre de 2016 y el primero de 2017.
-Desde los 7 años practico natación 2 horas por semana.
+
+Practico natación 2 horas por semana.
 
 
 
