@@ -33,6 +33,7 @@ tr>td{
     vertical-align: text-top;
     padding-top: 4px;
     padding-bottom: 4px;
+    font-size:20pt;
 }
 
 @media (min-width:800px), (orientation:landscape) {
