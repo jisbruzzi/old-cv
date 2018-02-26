@@ -7,11 +7,13 @@ $(document).ready(()=>{
   <line x1="0" y1="50%" x2="100%" y2="50%"\
       stroke-width="2px" stroke="blue"/>\
 </svg>')
-
-//$("#conContenido h1").append(vector)
     $("#conContenido h1").wrap("<span class='titleSpan'></span>")
     $(".titleSpan").append(vector)
-    //$(".titleSpan").prepend(vector)
-
+/*
+    $.get("telefono.html",function(datos){
+        console.log(datos);
+        $("#tabla1").append(datos);
+    })
+*/
 })
 
