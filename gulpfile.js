@@ -23,27 +23,6 @@ gulp.task("compilar",function(){
         .pipe(gulp.dest("./"))
 })
 
-gulp.task("compilar-gh",function(){
-    del.sync("index.html")
-    gulp.src(["*.html","texto.md"])
-        .pipe(tap(function(file,t){
-            if(file.path.includes("telefono.html") || file.path.includes("DNI.html")){
-                file.contents=new Buffer("");
-            }
-        }))
-        .pipe(markdown())
-        .pipe(new Combiner([
-            regexIncluder("# *include +(\\S+)\\s*",0),
-            regexIncluder("// *include +(\\S+)\\s*",0),
-            regexIncluder("<!-- *include +(\\S+)\\s*-->",0),
-            regexIncluder("!\\s*(\\S+)\\s*!",0)
-        ]))
-        .pipe(rename(path=>{
-            console.log(path);
-            path.basename=path.basename.replace("preindex","index");
-        }))
-        .pipe(gulp.dest("./"))
-})
 
 var webserver = require('gulp-webserver');
  
