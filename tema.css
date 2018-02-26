@@ -86,7 +86,6 @@ tr>td:first-child{
     padding-right:10px;
     font-weight: bold;
     width:30%;
-    color:#090959;
 }
 
 tr>td:last-child{
@@ -177,4 +176,17 @@ h2{
 
 .titleSpan > svg:last-child{
     flex-grow: 1;
+}
+
+/** TAMAÑO DE COSO **/
+p ul {
+    font-size:11pt;
+}
+
+h1 {
+    font-size:16.5pt;
+}
+
+h2 {
+    font-size:13.2pt;
 }
