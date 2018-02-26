@@ -9,11 +9,16 @@ $(document).ready(()=>{
 </svg>')
     $("#conContenido h1").wrap("<span class='titleSpan'></span>")
     $(".titleSpan").append(vector)
-/*
+
     $.get("telefono.html",function(datos){
         console.log(datos);
         $("#tabla1").append(datos);
     })
-*/
+
+    $.get("DNI.html",function(datos){
+        console.log(datos);
+        $("#tabla2").append(datos);
+    })
+
 })
 
