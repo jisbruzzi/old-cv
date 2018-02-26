@@ -45,6 +45,17 @@ gulp.task("compilar-gh",function(){
         .pipe(gulp.dest("./"))
 })
 
+var webserver = require('gulp-webserver');
+ 
+gulp.task('webserver', function() {
+  gulp.src('.')
+    .pipe(webserver({
+      livereload: true,
+      directoryListing: true,
+      open: true
+    }));
+});
+
 
 gulp.task("watch",function(){
     gulp.watch(["preindex.html","texto.md"],["compilar"])

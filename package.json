@@ -5,7 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "preparar-gh":"gulp compilar-sh && git add ."
+    "preparar-gh": "gulp compilar-gh && git add index.html"
   },
   "repository": {
     "type": "git",
@@ -26,7 +26,8 @@
     "gulp-markdown": "^2.0.1",
     "gulp-rename": "^1.2.2",
     "gulp-tap": "^1.0.1",
+    "gulp-webserver": "^0.9.1",
     "pre-commit": "^1.2.2"
   },
-  "pre-commit":"preparar-gh"
+  "pre-commit": "preparar-gh"
 }
