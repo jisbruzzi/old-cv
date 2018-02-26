@@ -1,8 +1,10 @@
+
+
 body {
     padding-left:5vw;
     padding-right:5vw;
 }
-
+/* UN VERDE #195909 */
 /** EL HEADER **/
 header>div {
     display:flex;
@@ -10,6 +12,15 @@ header>div {
     justify-content: center;
     margin-top: 5vh;
     margin-bottom: 5vh;
+
+    
+}
+
+@media print{
+    header>div{
+        margin-top: 0;
+        margin-bottom: 1vh;
+    }
 }
 
 header > div > p {
@@ -17,9 +28,13 @@ header > div > p {
     font-size:7vw;
     margin-left:3vw;
     margin-right:3vw;
+    color:#090959;
 }
 header > div > img {
-    width:30vw;
+    width:23vw;
+    border-color:#090959;
+    border-style:dashed;
+    border-width:3px;
 }
 header {
     display:flex;
@@ -33,10 +48,14 @@ tr>td{
     vertical-align: text-top;
     padding-top: 4px;
     padding-bottom: 4px;
-    font-size:20pt;
+}
+@media screen {
+    tr>td {
+        font-size:20pt;
+    }
 }
 
-@media (min-width:800px), (orientation:landscape) {
+@media screen and (orientation:landscape),  print{
     #conTablas {
         display:flex;
         flex-direction: row;
@@ -47,7 +66,7 @@ tr>td{
     }
 }
 
-@media (max-width:800px) , (orientation:portrait){
+@media screen and (orientation:portrait){
     #conTablas {
         display:flex;
         flex-direction: column;
@@ -67,6 +86,7 @@ tr>td:first-child{
     padding-right:10px;
     font-weight: bold;
     width:30%;
+    color:#090959;
 }
 
 tr>td:last-child{
@@ -76,7 +96,26 @@ tr>td:last-child{
 
 /** EL TEXTO **/
 
+p, h1, h2, ul {
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+}
+
+ul{
+    padding-left:2vw;
+}
+
+h1{
+    font-size:1.5em;
+}
+
+h2{
+    font-size:1.2em;
+}
+
+
 #conContenido {
+    position:relative;
     display:flex;
     flex-direction: column;
 }
@@ -87,24 +126,55 @@ tr>td:last-child{
     }
 }
 
-#conContenido > p{
+#conContenido p{
     font-family:"Merriweather";
     text-align: justify;
-    margin-left:10vw;
-
+    margin-left:7vw;
 }
 
-#conContenido >h2{
+#conContenido h2{
+    /*font-family:"Merriweather";*/
     font-family:"Merriweather";
+    font-weight: bold;
     margin-left:5vw;
 }
 
-#conContenido >h1{
+#conContenido h1{
+    /*font-family:"Montserrat";*/
     font-family:"Merriweather";
+    font-weight: bolder;
 }
 
-#conContenido > ul > li{
+#conContenido li{
+    list-style: square;
     font-family:"Merriweather";
     text-align: justify;
-    margin-left:10vw;
+    margin-left:7vw;
+}
+
+
+/** DIBUJITO DE LOS TÍTULOS **/
+
+#conContenido h1{
+    color:#090959;
+}
+.titleSpan {
+    width:100%;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.titleSpan svg{
+    height:1.5em;
+    margin-left:1vw;
+    margin-right:1vw;
+}
+
+.titleSpan line {
+    stroke:#090959;
+}
+
+.titleSpan > svg:last-child{
+    flex-grow: 1;
 }
