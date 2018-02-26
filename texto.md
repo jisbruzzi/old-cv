@@ -30,15 +30,15 @@ Obtuve A, equivalente al primer nivel del Advanced
 
 # Proyectos (académicos y hobby)
 
-## Fiuber (2017)
+## [Fiuber (2017)](https://github.com/fiuber)
 TP de Taller de Programación 2. Es un clon de Uber. Mi rol fue hacer un servidor, frontend y backend. __En el backend se usaron node, express y postgres (SQL). En el frontend usé react y bootstrap.__
-## Graficalo (2017)
+## [Graficalo (2017)](https://github.com/jisbruzzi/graficalo)
 TP de Sistemas Gráficos. Una ciudad generada aleatoriamente. Lo desarrollamos __en javascript directamente sobre webgl__ y también escribimos los shaders. Mediante algunas optimizaciones logramos renderizar ciudades del cuádruple de área que lo que se nos pidió. Por medio de tweeners se embellecieron las animaciones.
 ## TP Organización de Datos (2016)
 __Se probaron distintos algoritmos de Machine Learning__ -extraídos de papers, inspirados en KNN- para tratar el set de datos MNIST de dígitos escritos a mano. Se usó python con numpy.
 ## Megaman (2016)
 Trabajo práctico de Taller de Programación cátedra Veiga, un clon de megaman que se puede jugar online, hecho con __C++, GTK+, cairo__ y las interfaces de thread y socket de __linux__.
-## Despertar: El Regreso a Cucken (2013)
+## [Despertar: El Regreso a Cucken (2013)](https://gamejolt.com/games/the-return-to-cucken-awakening/16713)
 Me propuse recrear un juego mío anterior, pero convertirlo en lo más cercano a un producto. Aprendí mucho de experiencia de usuario y de arte. Desde 2009 hice más de una docena de juegos, pueden encontrarse en [gamejolt.com/@soyyo/games](https://gamejolt.com/@soyyo/games) . 
 
 # Otros antecedentes
