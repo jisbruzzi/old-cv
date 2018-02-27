@@ -1,11 +1,3 @@
-# Sobre mí
-Soy un estudiante de Ingeniería en Informática UBA, me encuentro en 4º año (5º contando el CBC). No tengo experiencia laboral, pero sí un perfil multifacético de mucho valor. 
-- Valoro mucho mi formación académica, lo cual se puede notar en mis promedios escolares y universitarios.
-- Me apasiona lo que hago. Aprendí a programar por mi cuenta haciendo juegos a los 13 años.
-- Soy creativo. Mis videojuegos representan logros tanto técnicos como artísticos. En lo ingenieril, me interesa resolver problemas difíciles de maneras creativas.
-- Conozco múltiples culturas. Hice dos años de secundaria en Brasil, esta experiencia cambió mi forma de ver el mundo.
-- Me interesa la comunidad. Participé en Remando en el CBC y actualmente en diversos grupos católicos.
-
 # Formación
 
 ## Ingeniería en Informática (UBA) (2014-actualidad)
@@ -40,6 +32,10 @@ __Se probaron distintos algoritmos de Machine Learning__ -extraídos de papers, 
 Trabajo práctico de Taller de Programación cátedra Veiga, un clon de megaman que se puede jugar online, hecho con __C++, GTK+, cairo__ y las interfaces de thread y socket de __linux__.
 ## [Despertar: El Regreso a Cucken (2013)](https://gamejolt.com/games/the-return-to-cucken-awakening/16713)
 Me propuse recrear un juego mío anterior, pero convertirlo en lo más cercano a un producto. Aprendí mucho de experiencia de usuario y de arte. Desde 2009 hice más de una docena de juegos, pueden encontrarse en [gamejolt.com/@soyyo/games](https://gamejolt.com/@soyyo/games) . 
+
+# Disponibilidad horaria
+
+Busco un trabajo part-time que me permita estudiar.
 
 # Otros antecedentes
 
