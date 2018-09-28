@@ -1,34 +1,32 @@
-# Sobre mí
-Soy un estudiante de Ingeniería en Informática UBA, me encuentro en 4º año (5º contando el CBC).
-- Valoro mucho mi formación académica, lo cual se puede notar en mis promedios escolares y universitarios.
-- Me apasiona lo que hago. Aprendí a programar por mi cuenta haciendo juegos a los 13 años.
-- Intento ser creativo en todo lo que hago. Mis videojuegos representan logros tanto técnicos como artísticos. En lo ingenieril, me interesa resolver problemas difíciles de maneras creativas.
-- Conozco múltiples culturas. Hice dos años de secundaria en Brasil, esta experiencia cambió mi forma de ver el mundo.
-- Me interesa la comunidad. Participé en Remando en el CBC y actualmente en diversos grupos católicos.
+# About me
+I'm in the fourth year of study of my degree in Software Engineering at UBA.
+- I value my studies a lot, which can be noticed in my performance at school and college.
+- I am passionate about coding. I learnt programming on my own by making videogames, starting at the age of 13.
+- I design creative solutions. The videogames I'v developed are both technical and artistic achievements. I enjoy solving hard problems in creative ways.
+- I know multiple cultures. I've lived in Brazil for two years as a teenager, which changed my worldview.
+- I get involved. I've been a tutor at "Remando en el CBC", where I've been a tutor of students in the initial years of theai careers. I'm also a part of several catholic groups.
 
-# Formación
+# Studies
 
-## Ingeniería en Informática (UBA) (2014-actualidad)
-Actualmente me encuentro en 4º año (5º contando el CBC), comenzando la orientación en Gestión Industrial de Sistemas en 2018. __Promedio hasta Septiembre 2018: 8,44__.
+## Sofware Engineering (UBA) (2014-now)
+I'm currently in the fourth year my degree (or fifth, if one takes the initial "CBC" courses into account). I've chosen the "Industrial Management of Systems" orientation. __Average of my grades up to September 2018: 8,44__.
 
 ## Coursera: Machine Learning (2017)
 
 ## First Certificate in English (2014)
-Obtuve A, equivalente al primer nivel del Advanced
+I got an A.
 
 ## Bachiller en Ciencias Naturales (2008-2013)
-- __Desde 2011 a 2012 estudié en São Paulo__, en la escuela Pueri Domus, unidad Verbo Divino. Incorporé el idioma y me adapté rápidamente. 
-- Participé en actividades como olimpiadas de matemática y de astronomía.
-- __Un proyecto escolar en el que participé fue seleccionado para la FEBRACE, la feria de ciencias nacional de Brasil.__
-- El resto de los años cursé en escuelas públicas de Avellaneda, soy egresado de la Escuela de Enseñanza Media número 2 de Wilde. 
-- Durante el último año hice 3 materias por UBA XXI.
-- __Promedio general: 9,33__ .
+- __Between 2011 and 2012 I studied in São Paulo__, at Pueri Domus. I learnt the language and adapted quickly. 
+- __I was elected to participate in FEBRACE, the Brazilian national science fair.__
+- The years before and after those, I studied in various public schools in Avellaneda, I'm a graduate of school number 2 of Avellaneda.
+- I took three initial college courses while I was in high-school, so I completed the first stage of the degree (CBC) in just one semester.
 
 # Idiomas
-- Inglés: avanzado
-- Portugués: avanzado
+- English: advanced
+- Portuguese: advanced
 
-# Proyectos (académicos y hobby)
+# Past projects (academic or hobby)
 
 ## [Fiuber (2017)](https://github.com/fiuber)
 TP de Taller de Programación 2. Es un clon de Uber. Mi rol fue hacer un servidor, frontend y backend. __En el backend se usaron node, express y postgres (SQL). En el frontend usé react y bootstrap.__
