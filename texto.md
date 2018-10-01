@@ -1,5 +1,5 @@
 # Sobre mí
-Soy un estudiante de Ingeniería en Informática UBA, me encuentro en 4º año (5º contando el CBC). No tengo experiencia laboral, pero sí un perfil multifacético de mucho valor. 
+Soy un estudiante de Ingeniería en Informática UBA, me encuentro en 4º año (5º contando el CBC). 
 - Valoro mucho mi formación académica, lo cual se puede notar en mis promedios escolares y universitarios.
 - Me apasiona lo que hago. Aprendí a programar por mi cuenta haciendo juegos a los 13 años.
 - Soy creativo. Mis videojuegos representan logros tanto técnicos como artísticos. En lo ingenieril, me interesa resolver problemas difíciles de maneras creativas.
@@ -9,7 +9,7 @@ Soy un estudiante de Ingeniería en Informática UBA, me encuentro en 4º año (
 # Formación
 
 ## Ingeniería en Informática (UBA) (2014-actualidad)
-Actualmente me encuentro en 4º año (5º contando el CBC), comenzando la orientación en Gestión Industrial de Sistemas en 2018. __Promedio hasta Febrero 2018: 8,36__.
+Actualmente me encuentro en 4º año (5º contando el CBC), comenzando la orientación en Gestión Industrial de Sistemas en 2018.__Promedio hasta Septiembre 2018: 8,44__.
 
 ## Coursera: Machine Learning (2017)
 
@@ -41,8 +41,10 @@ Trabajo práctico de Taller de Programación cátedra Veiga, un clon de megaman 
 ## [Despertar: El Regreso a Cucken (2013)](https://gamejolt.com/games/the-return-to-cucken-awakening/16713)
 Me propuse recrear un juego mío anterior, pero convertirlo en lo más cercano a un producto. Aprendí mucho de experiencia de usuario y de arte. Desde 2009 hice más de una docena de juegos, pueden encontrarse en [gamejolt.com/@soyyo/games](https://gamejolt.com/@soyyo/games) . 
 
+
+# Antecedentes laborales
+Trabajé 6 meses en Ayi y Asociados en el área de Investigación y Desarrollo, recién iniciada.
+
 # Otros antecedentes
 
-Durante 2017 di catequesis para adultos en mi parroquia. En el mes de Enero de 2017 y de 2018 fui a misionar a Corrientes con un grupo. Además participé del Remando en el CBC en el segundo cuatrimestre de 2016 y el primero de 2017.
-
-Practico natación 2 horas por semana.
+Durante 2017 y 2018 di catequesis para adultos en mi parroquia. En el mes de Enero de 2017 y de 2018 fui a misionar a Corrientes con un grupo. Además participé del Remando en el CBC en el segundo cuatrimestre de 2016 y el primero de 2017.
