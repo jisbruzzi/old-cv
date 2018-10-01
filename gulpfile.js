@@ -6,8 +6,8 @@ const rename=require("gulp-rename");
 const del=require("del");
 const tap=require("gulp-tap")
 
-gulp.task("compilar-es",function(){
-    del.sync("es/index.html")
+gulp.task("compilar",function(){
+    del.sync("index.html")
     gulp.src(["*.html","texto.md"])
         .pipe(markdown())
         .pipe(new Combiner([
@@ -18,9 +18,9 @@ gulp.task("compilar-es",function(){
         ]))
         .pipe(rename(path=>{
             console.log(path);
-            path.basename=path.basename.replace("preindex-es","index-es");
+            path.basename=path.basename.replace("preindex","index");
         }))
-        .pipe(gulp.dest("./es"))
+        .pipe(gulp.dest("./"))
 })
 
 

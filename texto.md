@@ -44,8 +44,10 @@ Desde 2009 hice más de una docena de juegos, pueden encontrarse en [gamejolt.co
 # Antecedentes laborales
 Trabajé 6 meses en Ayi y Asociados en el área de Investigación y Desarrollo, recién iniciada.
 
+
+# Antecedentes laborales
+Trabajé 6 meses en Ayi y Asociados en el área de Investigación y Desarrollo, recién iniciada.
+
 # Otros antecedentes
 
-Durante 2017 di catequesis para adultos en mi parroquia. En el mes de Enero de 2017 y de 2018 fui a misionar a Corrientes con un grupo. Además participé del Remando en el CBC en el segundo cuatrimestre de 2016 y el primero de 2017.
-
-Practico natación 2 horas por semana.
+Durante 2017 y 2018 di catequesis para adultos en mi parroquia. En el mes de Enero de 2017 y de 2018 fui a misionar a Corrientes con un grupo. Además participé del Remando en el CBC en el segundo cuatrimestre de 2016 y el primero de 2017.

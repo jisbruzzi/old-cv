@@ -1169,7 +1169,11 @@ isobject@^3.0.0, isobject@^3.0.1:
 
 kind-of@^1.1.0:
   version "1.1.0"
+<<<<<<< HEAD
   resolved "https://registry.yarnpkg.com/kind-of/-/kind-of-1.1.0.tgz#140a3d2d41a36d2efcfa9377b62c24f8495a5c44"
+=======
+  resolved "http://registry.npmjs.org/kind-of/-/kind-of-1.1.0.tgz#140a3d2d41a36d2efcfa9377b62c24f8495a5c44"
+>>>>>>> 2a1143c6c867767674a3e00c9e303cb707f4461f
 
 kind-of@^3.0.2, kind-of@^3.0.3, kind-of@^3.2.0:
   version "3.2.2"
@@ -2206,13 +2210,21 @@ string_decoder@~1.1.1:
 
 strip-ansi@^0.3.0:
   version "0.3.0"
+<<<<<<< HEAD
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-0.3.0.tgz#25f48ea22ca79187f3174a4db8759347bb126220"
+=======
+  resolved "http://registry.npmjs.org/strip-ansi/-/strip-ansi-0.3.0.tgz#25f48ea22ca79187f3174a4db8759347bb126220"
+>>>>>>> 2a1143c6c867767674a3e00c9e303cb707f4461f
   dependencies:
     ansi-regex "^0.2.1"
 
 strip-ansi@^3.0.0:
   version "3.0.1"
+<<<<<<< HEAD
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-3.0.1.tgz#6a385fb8853d952d5ff05d0e8aaf94278dc63dcf"
+=======
+  resolved "http://registry.npmjs.org/strip-ansi/-/strip-ansi-3.0.1.tgz#6a385fb8853d952d5ff05d0e8aaf94278dc63dcf"
+>>>>>>> 2a1143c6c867767674a3e00c9e303cb707f4461f
   dependencies:
     ansi-regex "^2.0.0"
 
