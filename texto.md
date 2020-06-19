@@ -1,53 +1,36 @@
 # Sobre mí
-Soy un estudiante de Ingeniería en Informática UBA, me encuentro en 4º año (5º contando el CBC).
-- Valoro mucho mi formación académica, lo cual se puede notar en mis promedios escolares y universitarios.
-- Me apasiona lo que hago. Aprendí a programar por mi cuenta haciendo juegos a los 13 años.
-- Intento ser creativo en todo lo que hago. Mis videojuegos representan logros tanto técnicos como artísticos. En lo ingenieril, me interesa resolver problemas difíciles de maneras creativas.
-- Conozco múltiples culturas. Hice dos años de secundaria en Brasil, esta experiencia cambió mi forma de ver el mundo.
-- Me interesa la comunidad. Participé en Remando en el CBC y actualmente en diversos grupos católicos.
+Soy un estudiante de Ingeniería en Informática UBA, actualmente estoy elaborando el trabajo final de la carrera y termin{e de cursar todas las materias. Me apasiona lo que hago (aprendí a desarrollar por mi cuenta a los 13 años).
 
 # Formación
 
 ## Ingeniería en Informática (UBA) (2014-actualidad)
-Actualmente me encuentro en 4º año (5º contando el CBC), comenzando la orientación en Gestión Industrial de Sistemas en 2018. __Promedio hasta Septiembre 2018: 8,44__.
-
-## Coursera: Machine Learning (2017)
+Orientación: Gestión Industrial de Sistemas. Terminé todas las materias y actualmente me encuentro desarrollando el trabajo final de la carrera, con vistas a recibirme a principios de 2021. __Promedio: 8,50__.
 
 ## First Certificate in English (2014)
 Obtuve A, equivalente al primer nivel del Advanced
 
 ## Bachiller en Ciencias Naturales (2008-2013)
-- __Desde 2011 a 2012 estudié en São Paulo__, en la escuela Pueri Domus, unidad Verbo Divino. Incorporé el idioma y me adapté rápidamente. 
-- Participé en actividades como olimpiadas de matemática y de astronomía.
-- __Un proyecto escolar en el que participé fue seleccionado para la FEBRACE, la feria de ciencias nacional de Brasil.__
+- __Desde 2011 a 2012 estudié en São Paulo__, en la escuela Pueri Domus, unidad Verbo Divino.
 - El resto de los años cursé en escuelas públicas de Avellaneda, soy egresado de la Escuela de Enseñanza Media número 2 de Wilde. 
-- Durante el último año hice 3 materias por UBA XXI.
-- __Promedio general: 9,33__ .
 
 # Idiomas
 - Inglés: avanzado
 - Portugués: avanzado
 
-# Proyectos (académicos y hobby)
-
-## [Fiuber (2017)](https://github.com/fiuber)
-TP de Taller de Programación 2. Es un clon de Uber. Mi rol fue hacer un servidor, frontend y backend. __En el backend se usaron node, express y postgres (SQL). En el frontend usé react y bootstrap.__
-## [Graficalo (2017)](https://github.com/jisbruzzi/graficalo)
-TP de Sistemas Gráficos. Una ciudad generada aleatoriamente. Lo desarrollamos __en javascript directamente sobre webgl__ y también escribimos los shaders. Mediante algunas optimizaciones de bajo nivel renderizamos ciudades del cuádruple de área que lo que se nos pidió.
-## TP Organización de Datos (2016)
-__Se probaron distintos algoritmos de Machine Learning__ -extraídos de papers, inspirados en KNN- para tratar el set de datos MNIST de dígitos escritos a mano. Se usó python con numpy.
-## Megaman (2016)
-Trabajo práctico de Taller de Programación cátedra Veiga, un clon de megaman que se puede jugar online, hecho con __C++, GTK+, cairo__ y las interfaces de thread y socket de __linux__.
-## [Despertar: El Regreso a Cucken (2013)](https://gamejolt.com/games/the-return-to-cucken-awakening/16713)
-Desde 2009 hice más de una docena de juegos, pueden encontrarse en [gamejolt.com/@soyyo/games](https://gamejolt.com/@soyyo/games) . 
-
 # Antecedentes laborales
-Trabajé 6 meses en Ayi y Asociados en el área de Investigación y Desarrollo, recién iniciada.
 
+- *Ayi y Asociados (abril 2018 - octubre 2018):* en el área de Investigación y Desarrollo, recién iniciada. Mi rol consistió en evaluar y comparar software para tareas específicas de análisis de imágenes.
+- *CyS Informática (Noviembre 2018 - actualidad):* Desarrollador C# utilizando las siguientes herramientas: webforms, ASP.NET MVC, GIT, SVN, bootstrap, soap, SQL server, visual studio.
 
-# Antecedentes laborales
-Trabajé 6 meses en Ayi y Asociados en el área de Investigación y Desarrollo, recién iniciada.
+# Proyectos académicos
+En mi carrera utilicé tecnologías diversas, tales como:
+- lenguajes de programación funcionales (clisp, ocaml, clojure)
+- tecnologías de desarrollo front-end (react, bootstrap, webgl)
+- tecnologías de desarrollo back-end y legacy (C++, C, GTK++, cairo, SQL, nodejs)
+- tecnologías de data science (python, numpy, SKlearn)
+
+Actualmente me encuentro desarrollando como trabajo final un analizador y visualizador de código legacy que incorpora una variedad de tecnologías y lenguajes muy amplia.
 
 # Otros antecedentes
-
-Durante 2017 y 2018 di catequesis para adultos en mi parroquia. En el mes de Enero de 2017 y de 2018 fui a misionar a Corrientes con un grupo. Además participé del Remando en el CBC en el segundo cuatrimestre de 2016 y el primero de 2017.
+- Coursera: Machine Learning (2017)
+- ECI 2019: N3: Development and automated testing of RESTful APIs
