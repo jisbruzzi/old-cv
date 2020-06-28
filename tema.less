@@ -1,0 +1,159 @@
+@azulOscuro:#090959;
+
+body {
+    padding-left:5vw;
+    padding-right:5vw;
+}
+
+/** EL HEADER **/
+header {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    div {
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+
+        @media screen{
+            margin-top: 5vh;
+            margin-bottom: 5vh;
+        }
+        @media print{
+            margin-top: 0;
+            margin-bottom: 1vh;
+        }
+        p {
+            font-family:"Montserrat";
+            font-size:7vw;
+            margin-left:3vw;
+            margin-right:3vw;
+            color:@azulOscuro;
+        }
+        img {
+            width:23vw;
+            border-color:@azulOscuro;
+            border-style:dashed;
+            border-width:3px;
+        }
+    }
+}
+
+/**LAS TABLAS DEL PRINCIPIO**/
+#conTablas {
+    display:flex;
+    justify-content: space-around;
+
+    @media screen and (orientation:landscape),  print{
+        flex-direction: row;
+
+        table {
+            width:45%;
+        }
+    }
+    @media screen and (orientation:portrait){
+        flex-direction: column;
+
+        table {
+            width:100%;
+        }
+    }
+    tr>td{
+        font-family:"Sanchez";
+        vertical-align: text-top;
+        padding-top: 4px;
+        padding-bottom: 4px;
+        @media screen {
+            font-size:20pt;
+            @media (orientation:portrait) {
+                padding-top: 10px;
+                padding-bottom: 10px;
+            }
+        }
+
+        &:first-child{
+            text-align: right;
+            padding-right:10px;
+            font-weight: bold;
+            width:30%;
+        }
+        &:last-child{
+            text-align: left;
+            width:70%;
+        }
+    }
+}
+
+/** EL TEXTO **/
+
+#conContenido{
+    position:relative;
+    display:flex;
+    flex-direction: column;
+
+    @media (orientation:landscape){
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 800px;
+    }
+
+    /** TIPOGRAFIAS **/
+    p, h1, h2, ul {
+        margin-top: 0.2em;
+        margin-bottom: 0.2em;
+    }
+    p, h1, h2, li{
+        font-family:"Merriweather";
+        font-size:11pt;
+        text-align: justify;
+    }
+    h2{
+        font-size:13.2pt;
+        font-weight: bold;
+    }
+    h1{
+        font-size:16.5pt;
+        font-weight: bolder;
+    }
+
+    /** MARGENES **/
+    ul{
+        padding-left:2vw;
+    }
+    p{
+        margin-left:7vw;
+    }
+    h2{
+        margin-left:5vw;
+    }
+    li{
+        list-style: square;
+        margin-left:7vw;
+    }
+}
+
+/** DIBUJITO DE LOS TÍTULOS **/
+#conContenido {
+    h1{
+        color:@azulOscuro;
+    }
+
+    .titleSpan {
+        width:100%;
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+
+        svg{
+            height:1.5em;
+            margin-left:1vw;
+            margin-right:1vw;
+            flex-grow: 1;
+        }
+
+        line {
+            stroke:@azulOscuro;
+        }
+    }
+}
