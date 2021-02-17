@@ -1,0 +1,1 @@
+Explicar por qué renuncié
